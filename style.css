@@ -1,0 +1,38 @@
+
+body{
+    background-color: moccasin;
+}
+h1 {
+    color: brown;
+    font-style: italic;
+  }
+#main {
+    margin: 1rem;
+    margin-left: 50rem;
+    width: 60%;
+  } 
+.baslik{
+    color:white;
+    background-color: brown;
+    font-weight: bold;
+    border-radius: 1rem;
+
+}
+.preinfo {
+    display: inline-block;
+    padding: 5px;
+    text-decoration: underline;
+  }
+.preinfo > span {
+    color: brown;
+    font-weight: bold;}
+.preblock{
+    margin-left: 3rem;
+}
+.afiyet{
+
+    margin-left: 45rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    color: black;
+}
